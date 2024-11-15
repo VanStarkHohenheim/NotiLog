@@ -14,7 +14,7 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
   
      ```bash
      git clone https://github.com/votre-utilisateur/VanHohenheim-Logger.git
-     cd VanHohenheim-Logger
+     cd NotiLog
 
 
 2. Rendez le script exécutable :
