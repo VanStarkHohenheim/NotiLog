@@ -26,7 +26,16 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
       
       ```
 
-3. Exécutez le script :
+
+3. Convertif en format UNIX
+
+      ```bash
+
+      dos2unix setup_ssh_list
+
+      ``` 
+
+4. Exécutez le script :
   
       ```bash
       
@@ -34,7 +43,7 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
       
       ```
       
-4. Relancer votre terminal
+5. Relancer votre terminal
 
      ```bash
      
