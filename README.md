@@ -4,7 +4,7 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
 
 ## Fonctionnalités
 
-- Enregistre les connexions utilisateur dans un fichier `connection.log` situé dans le répertoire personnel.
+- Enregistre les derniers log de votre machine.
 - Ajoute automatiquement le suivi dans `~/.bashrc`.
 
 ## Installation
