@@ -44,4 +44,4 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
 
 ## Utilisation
 
-Le script ajoute une commande à votre `~/.bashrc` pour enregistrer chaque connexion. Les informations sont sauvegardées dans `~/connection.log`
+Le script ajoute une commande à votre `~/.bashrc` pour enregistrer chaque connexion.
