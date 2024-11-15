@@ -16,12 +16,13 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
      git clone https://github.com/votre-utilisateur/VanHohenheim-Logger.git
      cd NotiLog
 
+     ```
 
 2. Rendez le script exécutable :
 
       ```bash
       
-      chmod +x logger.sh
+      chmod +x setup_ssh_list
       
       ```
 
@@ -29,10 +30,17 @@ Un script simple pour enregistrer les connexions utilisateur sur une machine Deb
   
       ```bash
       
-      ./logger.sh
+      bash setup_ssh_list
       
       ```
+      
+4. Relancer votre terminal
 
+     ```bash
+     
+     exec bash
+
+     ```
 
 ## Utilisation
 
