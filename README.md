@@ -1,6 +1,6 @@
 # NotiLog
 
-Un script simple pour enregistrer les connexions utilisateur sur une machine Debian/Linux.
+Un script simple pour afficher au demarrage les connexions utilisateur sur une machine Debian/Linux.
 
 ## Fonctionnalités
 
