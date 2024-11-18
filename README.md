@@ -13,7 +13,7 @@ Un script simple pour afficher au demarrage les connexions utilisateur sur une m
 
   
      ```bash
-     git clone https://github.com/votre-utilisateur/VanHohenheim-Logger.git
+     git clone https://github.com/votre-utilisateur/NotiLog
      cd NotiLog
 
      ```
